@@ -1,5 +1,7 @@
 public class ex9 {
     public static void main(String[] args) {
-         System.out.println("Hello Women");
+        int x=0;
+         System.out.println("Hello Women"+x);
+
     }
 }
